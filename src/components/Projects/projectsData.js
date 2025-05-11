@@ -3,8 +3,6 @@ export const projectsData = [
     id: 'hospital-bystander',
     title: 'Hospital Bystander Caller Web App',
     description: 'A full-stack web application built with Flask to connect hospital patients with bystanders, featuring secure authentication and Twilio integration.',
-    fullDescription: 'This project enables hospitals to efficiently connect patients with bystanders using a secure web platform. It features real-time notifications, secure authentication, and Twilio integration for communication.',
-    timeline: 'Jan 2023 - Mar 2023',
     image: '/images/projects/hospital-app.jpg',
     technologies: ['Flask', 'Python', 'RESTful API', 'Twilio', 'Git', 'CI/CD'],
     demoUrl: '#',

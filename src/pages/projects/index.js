@@ -1,6 +1,6 @@
 import React from 'react';
 import Layout from '../../components/Layout/Layout';
-import { projectsData } from '../../components/Projects/Projects'; // Make sure this path is correct
+import { projectsData } from '../../components/Projects/projectsData';// Make sure this path is correct
 
 export default function ProjectsPage() {
   return (

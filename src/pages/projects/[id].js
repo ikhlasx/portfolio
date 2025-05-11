@@ -5,7 +5,7 @@ import Link from 'next/link';
 import Layout from '../../components/Layout/Layout';
 
 // Import project data (in a real app, you might fetch this from an API)
-import { projectsData } from '../../components/Projects/Projects';
+import { projectsData } from '../../components/Projects/projectsData';
 
 export default function ProjectDetail() {
   const router = useRouter();

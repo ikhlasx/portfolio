@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Link from 'next/link';
 
-const projectsData = [
+export const projectsData = [
   {
     id: 'hospital-bystander',
     title: 'Hospital Bystander Caller Web App',
